@@ -1,0 +1,1300 @@
+{
+  "intents": [
+    {
+      "intent": "اقتراح",
+      "examples": [
+        {
+          "text": "اتمنى تغيير لون الموقع"
+        },
+        {
+          "text": "اريد ارسال اقتراح"
+        },
+        {
+          "text": "لدي اقتراح"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "الانتهاء",
+      "examples": [
+        {
+          "text": "سلام"
+        },
+        {
+          "text": "في أمان الله"
+        },
+        {
+          "text": "في امان الله"
+        },
+        {
+          "text": "لا شكراً"
+        },
+        {
+          "text": "مع السلامة"
+        },
+        {
+          "text": "مع السلامه"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "السلام",
+      "examples": [
+        {
+          "text": "السلام عليكم"
+        },
+        {
+          "text": "سلام عليكم"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "تفاصيل-المشكلة",
+      "examples": [
+        {
+          "text": "‎‫اواجه مشكلة في ‬‎"
+        },
+        {
+          "text": "اواجه مشكلة في الموقع"
+        },
+        {
+          "text": "مشكلتي هي انت"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "شكوى",
+      "examples": [
+        {
+          "text": "اريد ارسال شكوى"
+        },
+        {
+          "text": "اريد التواصل مع الشركة"
+        },
+        {
+          "text": "عندي شكوى"
+        },
+        {
+          "text": "لدي شكوى"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "عدم-الفهم",
+      "examples": [
+        {
+          "text": "ايش تقصد؟"
+        },
+        {
+          "text": "ايش قصدك؟"
+        },
+        {
+          "text": "عيد كلامك"
+        },
+        {
+          "text": "فهمني"
+        },
+        {
+          "text": "ما فهمت"
+        },
+        {
+          "text": "مافهمت"
+        },
+        {
+          "text": "مو فاهم"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "عن-الموقع",
+      "examples": [
+        {
+          "text": "كيف اصمم موقع مشابه"
+        },
+        {
+          "text": "كيف انشئ هذا الموقع؟"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "غير-متأكد",
+      "examples": [
+        {
+          "text": "احتمال"
+        },
+        {
+          "text": "بصراحة مو متأكد"
+        },
+        {
+          "text": "مدري"
+        },
+        {
+          "text": "يمكن"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "لغة-الموقع",
+      "examples": [
+        {
+          "text": "اللغات التي تم استخدامها للموقع؟"
+        },
+        {
+          "text": "اللغة التي تم استخدامها للموقع؟"
+        },
+        {
+          "text": "ماهي لغات الموقع"
+        },
+        {
+          "text": "ماهي لغة الموقع؟"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "مايبحث-عنه-العميل",
+      "examples": [
+        {
+          "text": "أيوه"
+        },
+        {
+          "text": "بالضبط"
+        },
+        {
+          "text": "بالضبط الي ابغاه"
+        },
+        {
+          "text": "بالضبط الي كنت أدور عليه"
+        },
+        {
+          "text": "بالطبع"
+        },
+        {
+          "text": "جميل"
+        },
+        {
+          "text": "حسنا"
+        },
+        {
+          "text": "رائع"
+        },
+        {
+          "text": "عظيم"
+        },
+        {
+          "text": "قرأت أفكاري"
+        },
+        {
+          "text": "نايس"
+        },
+        {
+          "text": "نعم"
+        },
+        {
+          "text": "هذا الي أحتاجه"
+        },
+        {
+          "text": "يس"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "مرحبا",
+      "examples": [
+        {
+          "text": "الو"
+        },
+        {
+          "text": "اهلا"
+        },
+        {
+          "text": "مرحبا"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "مشكلة",
+      "examples": [
+        {
+          "text": "لدي خلل"
+        },
+        {
+          "text": "لدي عطل"
+        },
+        {
+          "text": "لدي مشكلة"
+        },
+        {
+          "text": "مشكلة"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "مشكلة-اخرى",
+      "examples": [
+        {
+          "text": "سؤال ثاني لو سمحت"
+        },
+        {
+          "text": "شيء آخر"
+        },
+        {
+          "text": "لدي مشكلة أخرى"
+        },
+        {
+          "text": "مشكلة أخرى"
+        },
+        {
+          "text": "مشكلة اخرى"
+        },
+        {
+          "text": "مشكلة ثانية"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "مصادر",
+      "examples": [
+        {
+          "text": "ابحث عن مصادر التعلم"
+        },
+        {
+          "text": "ابحث عن مصادر تساعدني لتصميم موقع"
+        },
+        {
+          "text": "اريد مصادر للتعلم"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "من-انا",
+      "examples": [
+        {
+          "text": "ماذا استفيد منك ؟"
+        },
+        {
+          "text": "ماذا تقدم"
+        },
+        {
+          "text": "ماهي خدماتك"
+        },
+        {
+          "text": "من انت ؟"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "اتجاه",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "يمين",
+          "synonyms": [
+            "الى الامام",
+            "الى الخلف",
+            "الى اليسار",
+            "الى اليمين ",
+            "امام",
+            "خلف",
+            "ورا",
+            "يسار"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "الاسم",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "احمد",
+          "synonyms": [
+            "خالد",
+            "صالح",
+            "عاصم",
+            "عبدالله",
+            "فهد",
+            "ماجد",
+            "محمد",
+            "ياسر"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "ايميل",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "‎‪‎‪‎‪‎‪‎‪m‬‎a‬‎i‬‎l‬‎",
+          "synonyms": [
+            ".com",
+            "@gmail.com",
+            "@hotmail.com"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "تفاصيل-الاقتراح",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "اقتراحي هو",
+          "synonyms": [
+            "اتمنى",
+            "اتمنى الموقع",
+            "ارجو من الشركة"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "تفاصيل-المشكلة",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "‎‫مشكلتي هي‬‎",
+          "synonyms": [
+            "اواجه مشكلة في "
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "شكوى",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "الشكوى هي",
+          "synonyms": [
+            "البلاغ هو"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "dialog_nodes": [
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "الاسم ؟"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_7_1624908588197",
+      "event_name": "focus",
+      "dialog_node": "handler_10_1624908588209",
+      "previous_sibling": "handler_7_1624908588209"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_9_1624978714203",
+      "context": {
+        "complaint": "@شكوى"
+      },
+      "conditions": "@شكوى",
+      "event_name": "input",
+      "dialog_node": "handler_10_1624978714212"
+    },
+    {
+      "type": "event_handler",
+      "parent": "node_7_1624894651526",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1624896743735",
+      "previous_sibling": "node_4_1624976902894"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "الرجاء ارسال بياناتك: الاسم، الايميل، المشكلة"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1624976902894",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1624976965809"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "ماهي الشكوى ؟"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_9_1624978714203",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1624978714212",
+      "previous_sibling": "handler_10_1624978714212"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "ما هي المشكلة ؟"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_7_1624976966351",
+      "event_name": "focus",
+      "dialog_node": "handler_2_1624976966363",
+      "previous_sibling": "handler_3_1624976966363"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1624977023361",
+      "context": {
+        "name": "@الاسم"
+      },
+      "conditions": "@الاسم",
+      "event_name": "input",
+      "dialog_node": "handler_2_1624977023362"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "ادخل الايميل"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_9_1624977045574",
+      "event_name": "focus",
+      "dialog_node": "handler_2_1624977045575",
+      "previous_sibling": "handler_3_1624977045575"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "لتقديم شكوى الرجاء ارسال: الاسم، الايميل، الشكوى"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1624978234066",
+      "event_name": "focus",
+      "dialog_node": "handler_2_1624978713572"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "الرجاء ارسال بياناتك: الاسم، الايميل، الاقتراح"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1624908562226",
+      "event_name": "focus",
+      "dialog_node": "handler_3_1624908587404"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1624908612335",
+      "context": {
+        "suggestion": "@تفاصيل-الاقتراح"
+      },
+      "conditions": "@تفاصيل-الاقتراح",
+      "event_name": "input",
+      "dialog_node": "handler_3_1624908612337"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1624976966351",
+      "context": {
+        "problem": "@تفاصيل-المشكلة"
+      },
+      "conditions": "@تفاصيل-المشكلة",
+      "event_name": "input",
+      "dialog_node": "handler_3_1624976966363"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_9_1624977045574",
+      "context": {
+        "email": "@ايميل"
+      },
+      "conditions": "@ايميل",
+      "event_name": "input",
+      "dialog_node": "handler_3_1624977045575"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_10_1624978826633",
+      "context": {
+        "email": "@ايميل"
+      },
+      "conditions": "@ايميل",
+      "event_name": "input",
+      "dialog_node": "handler_4_1624978826634"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "ما الاقتراح الذي لديك ؟"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_2_1624908612335",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1624908612337",
+      "previous_sibling": "handler_3_1624908612337"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "الاسم ؟"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_5_1624978818187",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1624978818188",
+      "previous_sibling": "handler_8_1624978818188"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1624908588197",
+      "context": {
+        "name": "@الاسم"
+      },
+      "conditions": "@الاسم",
+      "event_name": "input",
+      "dialog_node": "handler_7_1624908588209"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_6_1624908603392",
+      "context": {
+        "email": "@ايميل"
+      },
+      "conditions": "@ايميل",
+      "event_name": "input",
+      "dialog_node": "handler_7_1624908603393"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1624978818187",
+      "context": {
+        "name": "@الاسم"
+      },
+      "conditions": "@الاسم",
+      "event_name": "input",
+      "dialog_node": "handler_8_1624978818188"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "ما هو الايميل ؟"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_6_1624908603392",
+      "event_name": "focus",
+      "dialog_node": "handler_9_1624908603393",
+      "previous_sibling": "handler_7_1624908603393"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "ادخل الاسم "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_7_1624977023361",
+      "event_name": "focus",
+      "dialog_node": "handler_9_1624977023362",
+      "previous_sibling": "handler_2_1624977023362"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "الايميل؟"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_10_1624978826633",
+      "event_name": "focus",
+      "dialog_node": "handler_9_1624978826634",
+      "previous_sibling": "handler_4_1624978826634"
+    },
+    {
+      "type": "frame",
+      "title": "شكوى",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "تم ارسال الشكوى للقسم المختص"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#شكوى",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1624978234066",
+      "previous_sibling": "node_6_1624909876084"
+    },
+    {
+      "type": "standard",
+      "title": "رد السلام",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "وعليكم السلام، كيف اقدر اخدمك ؟"
+              },
+              {
+                "text": "وعليكم السلام ورحمة الله وبركاته، كيف اقدر أخدمك؟"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#السلام",
+      "dialog_node": "node_1_1624979874704",
+      "previous_sibling": "node_9_1624906947710"
+    },
+    {
+      "type": "standard",
+      "title": "الرد المطلوب من العميل",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "أدري 😎"
+              },
+              {
+                "text": "🤓"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#مايبحث-عنه-العميل",
+      "dialog_node": "node_2_1624909959754",
+      "previous_sibling": "node_4_1624908562226"
+    },
+    {
+      "type": "standard",
+      "title": "مصادر",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": " هذه بعض المصادر الرائعة"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "teamtreehouse.com, codecademy.com, studioweb.com"
+              },
+              {
+                "text": "w3schools.com, teamtreehouse.com, studioweb.com"
+              },
+              {
+                "text": "w3schools.com, codecademy.com, freecodecamp.org"
+              },
+              {
+                "text": "w3schools.com, udemy.com"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#مصادر",
+      "dialog_node": "node_3_1624991477946",
+      "previous_sibling": "node_3_1624992157216"
+    },
+    {
+      "type": "standard",
+      "title": "لغات الموقع",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "تم استخدام هذه اللغات: HTML, CSS, PHP"
+              },
+              {
+                "text": "HTML, CSS, PHP ✨"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#لغة-الموقع",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_3_1624992157216",
+      "previous_sibling": "node_9_1624992434859"
+    },
+    {
+      "type": "frame",
+      "title": "تواصل مع الشركة .",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "✅ تم الارسال بنجاح"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#اقتراح",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_4_1624908562226",
+      "previous_sibling": "node_1_1624978234066"
+    },
+    {
+      "type": "frame",
+      "title": "تفاصيل العطل",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "✅ تم الارسال بنجاح"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1624894651526",
+      "conditions": "#تفاصيل-المشكلة",
+      "dialog_node": "node_4_1624976902894"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "  أنا المساعد الذكي للأساليب الذكية، أعلمك اي لغة تم استخدامها في الموقع، و اوفر بعض المصادر للتعلم"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "ايضاً تستطيع ارسال شكاوى أو اقتراحات عن طريقي "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#من-انا",
+      "dialog_node": "node_5_1624990444089",
+      "previous_sibling": "node_1_1624979874704"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "title": "هل تقصد",
+            "options": [
+              {
+                "label": "مشكلة",
+                "value": {
+                  "input": {
+                    "text": "لدي مشكلة"
+                  }
+                }
+              },
+              {
+                "label": "شكوى",
+                "value": {
+                  "input": {
+                    "text": "لدي شكوى"
+                  }
+                }
+              },
+              {
+                "label": "اقتراح",
+                "value": {
+                  "input": {
+                    "text": "لدي اقتراح"
+                  }
+                }
+              },
+              {
+                "label": "لغات الموقع",
+                "value": {
+                  "input": {
+                    "text": "ماهي لغة الموقع؟"
+                  }
+                }
+              },
+              {
+                "label": "مصادر",
+                "value": {
+                  "input": {
+                    "text": "ابحث عن مصادر التعلم"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_5_1624997897473",
+      "previous_sibling": "أي شيء آخر"
+    },
+    {
+      "type": "standard",
+      "title": "لم يفهم العميل",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "لا اعلم كيف اشرح لك ذلك"
+              },
+              {
+                "text": "حسناً، اعطني سؤال آخر"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#عدم-الفهم",
+      "dialog_node": "node_6_1624908917197",
+      "previous_sibling": "node_2_1624909959754"
+    },
+    {
+      "type": "standard",
+      "title": "عطل آخر",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "ما هي ؟"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#مشكلة-اخرى",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_6_1624909876084",
+      "previous_sibling": "node_7_1624894651526"
+    },
+    {
+      "type": "standard",
+      "title": "عطل",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "ماهي مشكلتك ؟ "
+              },
+              {
+                "text": "اعطني ما عندك"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#مشكلة",
+      "dialog_node": "node_7_1624894651526",
+      "previous_sibling": "node_3_1624991477946"
+    },
+    {
+      "type": "standard",
+      "title": "ترحيب",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": " 🦾 ياهلا"
+              },
+              {
+                "text": "آمر"
+              },
+              {
+                "text": "كيف اقدر اساعدك ؟"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#مرحبا",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_9_1624906947710",
+      "previous_sibling": "مرحبا"
+    },
+    {
+      "type": "standard",
+      "title": "تصميم الموقع",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "في البداية يجب عليك تعلم لغة HTML "
+              },
+              {
+                "text": "ثم CSS, PHP"
+              },
+              {
+                "text": "واخيرا تعلم SQL"
+              },
+              {
+                "text": "لا تستعجل ابداً، خذ وقتك في التعلم"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#عن-الموقع",
+      "dialog_node": "node_9_1624992434859",
+      "previous_sibling": "node_5_1624990444089"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "مرحبا، كيف يمكنني مساعدتك؟"
+              },
+              {
+                "text": "اهلاً اهلاً 😍"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "مرحبا",
+      "disabled": true,
+      "dialog_node": "response_8_1624977943609"
+    },
+    {
+      "type": "slot",
+      "parent": "node_1_1624978234066",
+      "variable": "$email",
+      "dialog_node": "slot_10_1624978826633",
+      "previous_sibling": "slot_5_1624978818187"
+    },
+    {
+      "type": "slot",
+      "parent": "node_4_1624908562226",
+      "variable": "$suggestion",
+      "dialog_node": "slot_2_1624908612335",
+      "previous_sibling": "slot_6_1624908603392"
+    },
+    {
+      "type": "slot",
+      "parent": "node_1_1624978234066",
+      "variable": "$name",
+      "dialog_node": "slot_5_1624978818187",
+      "previous_sibling": "slot_9_1624978714203"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_4_1624908562226",
+      "variable": "$email",
+      "dialog_node": "slot_6_1624908603392",
+      "previous_sibling": "slot_7_1624908588197"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_4_1624908562226",
+      "variable": "$name",
+      "dialog_node": "slot_7_1624908588197",
+      "previous_sibling": "handler_3_1624908587404"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_4_1624976902894",
+      "variable": "$problem",
+      "dialog_node": "slot_7_1624976966351",
+      "previous_sibling": "handler_1_1624976965809"
+    },
+    {
+      "type": "slot",
+      "parent": "node_4_1624976902894",
+      "variable": "$name",
+      "dialog_node": "slot_7_1624977023361",
+      "previous_sibling": "slot_7_1624976966351"
+    },
+    {
+      "type": "slot",
+      "parent": "node_4_1624976902894",
+      "variable": "$email",
+      "dialog_node": "slot_9_1624977045574",
+      "previous_sibling": "slot_7_1624977023361"
+    },
+    {
+      "type": "slot",
+      "parent": "node_1_1624978234066",
+      "variable": "$complaint",
+      "dialog_node": "slot_9_1624978714203",
+      "previous_sibling": "handler_2_1624978713572"
+    },
+    {
+      "type": "standard",
+      "title": "أي شيء آخر ؟",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "في أمان الله"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://cdn1.iconfinder.com/data/icons/emoji-of-smiley-color/100/smiley_wave-512.png",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#الانتهاء",
+      "dialog_node": "أي شيء آخر",
+      "previous_sibling": "node_6_1624908917197",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "بداية المحادثة",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "مرحبا، كيف يمكنني مساعدتك؟"
+              },
+              {
+                "text": "اهلاً اهلاً 😍"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "welcome",
+      "dialog_node": "مرحبا"
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "i"
+    },
+    {
+      "text": "l"
+    },
+    {
+      "text": "ك"
+    },
+    {
+      "text": "كيف انشى هذا الموقع ؟"
+    }
+  ],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": ":هل قصدت",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "كل ما سبق خطأ"
+    },
+    "human_agent_assist": {
+      "prompt": ":هل قصدت"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "SmartAssistant",
+  "language": "ar",
+  "description": "التواصل مع العميل"
+}
