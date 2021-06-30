@@ -8,7 +8,7 @@ There is <b>Two</b> file:
   
 - <b>skill-SmartAssistant.json</b> : which is have skil i created in IBM Watson Assistant, it's combine intent and entities and dialog.
   
-  <h1>Look at the screen shots below to know how this page works</h1>
+  <h1>Look at the screen shots below to know how this chat works</h1>
 <br>
 
 <img src="Screen Shot .png">
