@@ -2,7 +2,7 @@
 
 <h3>Smart Assistant / Automated reply </h3>
 
-There is <b>Two</b> files:
+There is <b>Two</b> file:
 
 - <b>interface</b> : which is HTML file, it's interface that have Chat.
   
