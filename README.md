@@ -1,5 +1,16 @@
 # Chat
 
+<h3>Smart Assistant / Automated reply </h3>
+
+There is <b>Two</b> files:
+
+- <b>interface</b> : which is HTML file, it's interface that have Chat.
+  
+- <b>skill-SmartAssistant.json</b> : which is have skil i created in IBM Watson Assistant, it's combine intent and entities and dialog.
+  
+  <h1>Look at the screen shots below to know how this page works</h1>
+<br>
+
 <img src="Screen Shot .png">
 <img src="Screen Shot1.png">
 <img src="Screen Shot2.png">
