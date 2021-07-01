@@ -1,6 +1,5 @@
-#  Chat 💬 🤖
-<h3>Smart Assistant / Automated reply </h3>
-<br>
+#  Chat bot 💬 🤖
+
 There is <b>Two</b> file:
 
 - <b>interface</b> : which is HTML file, it's interface that have Chat.
